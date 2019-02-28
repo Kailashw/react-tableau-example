@@ -27,7 +27,7 @@ Open command prompt and type down following commands in the same order.
     npx create-react-app react-tableau-example
     cd react-tableau-example
     yarn add tableau-api
-    replace the code in app.js with following 
+    replace the code in app.js with code i have committed.  
     yarn start
 
 
